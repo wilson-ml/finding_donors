@@ -3,6 +3,11 @@
 Supervised Learning (Classification) Project of Udacity Machine Learning Engineer Nanodegree Program
 
 
+# Abstract
+
+Investigated factors that affect the likelihood of charity donations being made based on real census data. Trained and tested several models, and selected the best one based on F-score and efficiency.
+
+
 ## Project Overview
 
 This project applies supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
