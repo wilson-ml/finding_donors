@@ -30,11 +30,11 @@ This project consists of the following tasks:
 
 ## Technical Skills
 
-* __sklearn.ensemble.AdaBoostClassifier__: select important features
-* __sklearn.linear_model.LogisticRegression__: logistic regression
-* __sklearn.svm.LinearSVC__: SVM with linear kernel
-* __sklearn.naive_bayes.GaussianNB__: Naive Bayes Classifier
-* __sklearn.model_selection.ShuffleSplit__: split labeled data into training and validation sets.
+* `sklearn.ensemble.AdaBoostClassifier`: select important features
+* `sklearn.linear_model.LogisticRegression`: logistic regression
+* `sklearn.svm.LinearSVC`: SVM with linear kernel
+* `sklearn.naive_bayes.GaussianNB`: Naive Bayes Classifier
+* `sklearn.model_selection.ShuffleSplit`: split labeled data into training and validation sets.
 
 
 ## Development Environment
@@ -42,3 +42,4 @@ This project consists of the following tasks:
 * OpenSUSE Linux 42.2
 * Anaconda 4.4 with Python 2.7
 * pandas, numpy, sklearn
+
